@@ -1,5 +1,3 @@
-import numpy as np #pip3 install numpy
-
 elf_number = 0
 total = 0
 max_total = 0
